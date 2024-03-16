@@ -1,0 +1,10 @@
+{
+  "name": "population-graph-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/population-graph-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["population-graph"],
+  "// targets": "to see all targets run: nx show project population-graph-e2e --web",
+  "targets": {}
+}
